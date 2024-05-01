@@ -2,7 +2,7 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-Interface/CustomFIeld/main/RayField.lua'))();
 
 local Window = Rayfield:CreateWindow({
-    Name = "Xeo Hub | Sol's RNG",
+    Name = "Xeo Hub | Spongebob Simulator",
     LoadingTitle = "Xeo Hub",
     LoadingSubtitle = "by local",
     ConfigurationSaving = {
